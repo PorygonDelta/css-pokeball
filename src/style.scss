@@ -3,6 +3,7 @@
 
 body {
   background-color: #f5f5f5;
+  font-family: 'Hind Guntur', sans-serif;
 }
 
 *:before, *:after {
@@ -96,7 +97,7 @@ body {
         @include size(110px, 50px);
         border-right: 25px solid $color-yellow;
         border-left: 25px solid $color-yellow;
-        top: 40px;
+        top: 39px;
         left: 20px;
       }
     }
