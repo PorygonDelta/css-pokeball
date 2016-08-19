@@ -1,3 +1,5 @@
 # css-pokeball
 Pure CSS Pokemon balls
-[Imgur](http://i.imgur.com/sEc3ezx.png)
+
+
+![Pokemon Balls](https://s4.postimg.io/4qu9l34qz/pokeball_advanced.png)
