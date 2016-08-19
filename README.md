@@ -1,3 +1,3 @@
 # css-pokeball
 Pure CSS Pokemon balls
- ![](http://imgur.com/a/4Prj3)
+[Imgur](http://i.imgur.com/sEc3ezx.png)
